@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1005255458668",
+    "project_id": "quick-park-d21d6",
+    "storage_bucket": "quick-park-d21d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005255458668:android:3f610be4334e51fdb9bd49",
+        "android_client_info": {
+          "package_name": "com.example.internship_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005255458668-8v9jt7pdatm0fgkmgdbcli3n61499dom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeCgxLq8nGY0rOX9n4lhITMYAJ4g4AMC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005255458668-8v9jt7pdatm0fgkmgdbcli3n61499dom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005255458668:android:6982ee1a2ec7111cb9bd49",
+        "android_client_info": {
+          "package_name": "com.example.quickpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005255458668-d6l674bjltngahiskce3dvs4m4c8bimq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quickpark",
+            "certificate_hash": "62e47370c9d15b2f57641b0772a01b729076a3b6"
+          }
+        },
+        {
+          "client_id": "1005255458668-8v9jt7pdatm0fgkmgdbcli3n61499dom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeCgxLq8nGY0rOX9n4lhITMYAJ4g4AMC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005255458668-8v9jt7pdatm0fgkmgdbcli3n61499dom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
