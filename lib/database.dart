@@ -115,23 +115,7 @@ class Database {
     );
   }
 
-  /*Future<void> updateCurrentRank(int currentRank)async
-  {
-    return await users.doc(uid).update(
-        {
-          "currentRank": currentRank
-        }
-    );
-  }*/
 
-  /*Future<void> updateOverallRank(int overallRank)async
-  {
-    return await users.doc(uid).update(
-        {
-          "globalRank": overallRank
-        }
-    );
-  }*/
 
   Future<void> updateResponses(String id,Map<String,String> responses)async
   {
