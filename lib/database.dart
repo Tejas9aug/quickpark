@@ -152,50 +152,7 @@ class Database {
     );
   }
 
-  /*Future<void> updateLeaderboard(String id,String no, List l)async
-  {
-    return await leaderboard.doc(id).update(
-        {
-          no: l
-        }
-    );
-  }*/
 
- /* Future<void> updateOverallLeaderboard(String no, List l)async
-  {
-    return await leaderboard.doc("globalLeaderboard").update(
-        {
-          no: l
-        }
-    );
-  }*/
-
- /* Future<void> rankUpdated(bool up)async
-  {
-    return await quiz.doc(uid).update(
-        {
-          "rankUpdated": up
-        }
-    );
-  }*/
-
- /* Future<void> overallRankUpdated(bool up)async
-  {
-    return await quiz.doc(uid).update(
-        {
-          "overallRankUpdated": up
-        }
-    );
-  }*/
-
- /* Future<void> updateQuizId(String up)async
-  {
-    return await ID.doc("id").update(
-        {
-          "i": up
-        }
-    );
-  }*/
 
 
 

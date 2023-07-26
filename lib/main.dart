@@ -148,7 +148,7 @@ class _appState extends State<app> {
               child: SplashScreen(
                 seconds: 2,
                 navigateAfterSeconds: MyApp(),
-                title: new Text(
+                title: Text(
                     'Quick Park',
                     textAlign: TextAlign.center,
                     style: GoogleFonts.openSans(textStyle:TextStyle(fontWeight: FontWeight.w600, fontSize: MediaQuery.of(context).size.width*0.08,color: Colors.blue[900]),)
